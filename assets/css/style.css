@@ -598,9 +598,13 @@ section {
   font-weight: 700;
 }
 
+
 .services .service-box p{
   text-align: center;
   word-spacing: 1;
+}
+.services .service-box:hover p{
+  color: #fff;
 }
 .services .service-box .read-more {
   display: inline-flex;
